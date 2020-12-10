@@ -1,0 +1,5 @@
+﻿  Source.cpp
+C:\Users\user\source\repos\GRAFICA\Source.cpp(226,41): warning C4838: Преобразование из "int" в "float" требует сужающего преобразования.
+C:\Users\user\source\repos\GRAFICA\Source.cpp(226,44): warning C4838: Преобразование из "int" в "float" требует сужающего преобразования.
+C:\Users\user\source\repos\GRAFICA\Source.cpp(226,47): warning C4838: Преобразование из "int" в "float" требует сужающего преобразования.
+  GRAFICA.vcxproj -> C:\Users\user\source\repos\GRAFICA\Debug\GRAFICA.exe

@@ -1,0 +1,2 @@
+C:\Users\user\source\repos\GRAFICA\Debug\GRAFICA.exe
+C:\Users\user\source\repos\GRAFICA\Debug\GRAFICA.pdb
